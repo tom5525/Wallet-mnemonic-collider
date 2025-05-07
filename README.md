@@ -24,10 +24,15 @@ Bybit：Bybit交易所官方钱包，支持全网络及所有主流链。
 这个工具通常用于区块链安全研究或教学演示，禁止用于非法用途。
 
 三、安装使用说明
+
 1、电脑需要安装chrom浏览器，chrom版本120以上，推荐使用安装包文件夹中的ChromeSetup.exe
+
 ![image](https://github.com/user-attachments/assets/789bf3b8-2bb9-4e66-816d-5594cc989aa1)
+
 2、需要使用梯子，安装包中提供了梯子安装包
+
 ![image](https://github.com/user-attachments/assets/1b83751c-a1bd-49ba-b45d-cd5b636ab084)
+
 3、双击启动碰撞器exe程序，输入模式序号即可使用
 
 ![image](https://github.com/user-attachments/assets/53f85a7c-8a6d-4a85-b74d-68fd0cd12d0b)
@@ -35,10 +40,12 @@ Bybit：Bybit交易所官方钱包，支持全网络及所有主流链。
 4、程序全自动运行，运行五分钟之后，需要检查一下xxx钱包余额记录.txt中是否能正常记录助记词数据，如果没有正常记录，根据下图修改文件权限。
 ![image](https://github.com/user-attachments/assets/b9bb1c93-f6e5-4871-9fef-2079a2cd5161)
 
+
 四、注意事项
+
 1、电脑系统要求：Windows10及以上
-	服务器系统要求：Windows Server2016及以上
+服务器系统要求：Windows Server2016及以上
 
 2、电脑防火墙需要关闭（安装的安全卫士建议关闭）
 
-	3、碰撞器程序不要放在系统盘(C盘)
+3、碰撞器程序不要放在系统盘(C盘)
